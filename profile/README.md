@@ -4,6 +4,8 @@ Portable professional verification infrastructure.
 
 Credora enables institutions to issue cryptographically verifiable credentials that holders can securely share with recruiters, employers, and platforms.
 
+Credora is in early design/research phase. If you're an institution interested in verifiable credential infrastructure, we'd love to talk.
+
 ## Core Principles
 
 - Verify claims, not people
